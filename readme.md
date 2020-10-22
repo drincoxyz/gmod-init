@@ -4,7 +4,7 @@ This is a shared library for Garry's Mod that is used to load any standard init 
 
 ## Drop-In Replacement
 
-There's [a version of this library](https://github.com/drincoxyz/cwdinit) that will automatically recursively load the directory that the script is in, making it a drop-in replacement for traditional `init.lua` and `cl_init.lua` files for things like gamemodes and entities, but doesn't provide the actual library itself.
+There's [a version of this library](https://gist.github.com/drincoxyz/6e24879e19755bb565bdc243245be80c) that will automatically recursively load the directory that the script is in, making it a drop-in replacement for traditional `init.lua` and `cl_init.lua` files for things like gamemodes and entities, but doesn't provide the actual library itself.
 
 ## Examples
 
